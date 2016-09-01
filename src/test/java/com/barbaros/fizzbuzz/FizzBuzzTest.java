@@ -1,6 +1,5 @@
-package com.barbaros.test;
+package com.barbaros.fizzbuzz;
 
-import com.barbaros.test.FizzBuzz;
 import org.junit.Before;
 import org.junit.Test;
 

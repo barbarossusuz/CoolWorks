@@ -1,4 +1,4 @@
-package com.barbaros.test;
+package com.barbaros.fizzbuzz;
 
 /**
  * Created by Bar-Mel on 1.09.2016.
