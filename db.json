@@ -1,4 +1,5 @@
-[
+{
+  "get": [
     {
         "url": "https://www.facebook.com",
         "text": "facebook"
@@ -19,4 +20,5 @@
         "url": "https://www.oyuncube.com",
         "text": "oyuncube"
     }
-]
+  ]
+}
